@@ -78,10 +78,13 @@
     
     
      <!--##### Distro-->
-    <div id="Distro" class="step slide" data-x="0" data-y="-1472.5" data-z="-100" data-rotate="180" data-scale="1.8" data-z="-100" data-rotate-x="17.5">
-        <p class="subsubtitle">What is a Distribution?</p>
-        <p><br />A GNU/Linux Distribution (Distro) is a collection of [mostly] Free software avialable for install or live run, plus a repository of other software packaged to be installed on system.</p>
-        <p><br />Many groups around the world makes their own distro based on their needs.</p>
+    <div id="Distro" class="step slide" data-x="0" data-y="-1472.5" data-z="-100" data-rotate="180" data-scale="1.8" data-z="-100" data-rotate-x="17.5" style="direction:rtl">
+        <p class="subsubtitle"><b>خلاصه اخبار</b></p>
+        <p style="text-align: justify;">
+نارنجی، لینوکس مگ، ان اس ای، سیسکو، درون ها، اوبونتو وان، استیم،  پایتون، مشارکت زنان، بیت کوین، سایفون، داگ کوین، روحانی، دی آر ام، اس اس ال، موزیلا، هک هواوی، دعواهای لینوس، اسنودن، پیشرفت اوپن سورس، خونریزی قلبی، آزاد شدن کد داس، نسخه ۱ فری بی اس دی، مشارکت هادی تو پستگرس، مگا، کیم دات کام، آر اس ای، ...
+
+</p>
+ 
     </div>
     
     <div id="Debian" class="step slide" data-x="0" data-y="-2650" data-z="-200" data-rotate="180" data-scale="1.6" data-z="-200" data-rotate-x="35">

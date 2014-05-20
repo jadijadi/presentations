@@ -1,0 +1,177 @@
+html, body, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center, ul,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 1.5em;
+    font-family: 'Ubuntu';
+    vertical-align: baseline;
+    line-height: 1.5;
+}
+
+body {
+    font-family: Ubuntu;
+    min-height: 24.5em;
+    background: url(../images/warty-final-ubuntu.jpg) center center no-repeat;
+}
+
+.slide {
+    display: block;
+
+    width: 30em;
+    height: 21.5em;
+    padding: 1.5em 2em;
+
+    background-color: white;
+    border: 0.05em solid rgba(0, 0, 0, .3);
+    border-radius: 0.5em;
+    box-shadow: 0 0.1em 0.2em rgba(0, 0, 0, .1);
+
+    color: rgb(102, 102, 102);
+    text-shadow: 0 0.08em 0.08em rgba(0, 0, 0, .1);
+
+    font-family: 'Ubuntu';
+    font-size: 0.833em;
+    line-height: 1.2em;
+    letter-spacing: -0.05em;
+    
+    overflow: hidden;
+}
+
+.impress-enabled .step {
+    margin: 0;
+    opacity: 0.7;
+    transition:         opacity 1s;
+}
+
+.impress-enabled .step.active {
+    opacity: 1
+}
+
+.cover {
+    background: #2B001D;
+    color: white;
+}
+
+.tahr {
+    position: fixed;
+    height: 55%;
+    padding: 0 2em;
+    right: 0;
+    bottom: 0;
+}
+
+.main {
+    transition: 5s;
+}
+
+.botbar {
+	background-color: #DD4814;
+	position: fixed;
+	top: 50%;
+	width: 100%;
+	height: 50%;
+}
+
+.logo {
+    height: 50%;
+    width: 50%;
+    position: absolute;
+    top: 25%;
+    left: 25%;
+    background-image: url("../images/tahr_orange_hex.svg");
+    background-size: 50% auto;
+    background-position: center center;
+    background-repeat: no-repeat;
+
+}
+
+.title {
+    font-size: 3em;
+}
+
+.subtitle {
+    font-size: 2em;
+}
+
+.little {
+    font-size: 0.95em;
+}
+
+.orange {
+    color: #DD4814;
+}
+
+.white {
+    color: white;
+}
+
+b, strong, .bold { font-weight: bold }
+i, em, .italic { font-style: italic }
+
+.bottom {
+    position: fixed;
+    padding: 1.5em 0;
+    bottom: 0px;
+}
+
+.center {
+    text-align: center;
+}
+
+.left {
+    position: relative;
+    float: left;
+    width: 50%;
+}
+
+.right {
+    position: relative;
+    float: right;
+    width: 50%;
+}
+
+.rtl {
+    text-align: right;
+}
+
+a {
+    color: #DD4814;
+    text-decoration: none;
+    transition-duration: 0.5s;
+}
+
+a:hover {
+    color: #772953;
+    text-decoration: none;
+}
+
+.video {
+	width: 100%;
+}
+
+.hidden {
+    color: white;
+    font-color: white;
+    text-color: white;
+}
+
+.red {
+    background: red;
+}
+.yellow {
+    background: yellow;
+}
+.green {
+    background: green;
+}

@@ -17,6 +17,10 @@
         along with this program; if not, write to the Free Software
         Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston,
         MA 02110-1301, USA.
+
+	----
+
+	Modified by Jadi for his own presentation <JadiJadi@gmail.com>
         
         
 -->
@@ -24,14 +28,14 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 
 <head>
-	<title>Ubuntu 14.04 | Ubuntu-ir</title>
+	<title>Ubuntu 14.04 | News</title>
 	<meta http-equiv="content-type" content="text/html;charset=utf-8" />
 	<meta name="creator" content="Danial Behzadi" />
     <meta charset="utf-8" />
     <meta name="viewport" content="width=1024" />
     <meta name="apple-mobile-web-app-capable" content="yes" />
     
-    <title>Ubuntu 14.04 presentation | Ubuntu-ir</title>
+    <title>Ubuntu 14.04 presentation | News</title>
     
     <link href="css/fonts.css" rel="stylesheet" />
     <link href="css/style.css" rel="stylesheet" />
@@ -44,69 +48,33 @@
 <div id="impress">
     
     <!--##### Main-->
+    <!--<div id="Cover" class="step slide cover" data-x="0" data-y="2300" data-scale="4" data-rotate-z="180" data-rotate-y="180" data-rotate-x="-180">-->
     <div id="Cover" class="step slide cover" data-x="0" data-y="2300" data-scale="4">
         <p class="subtitle">ubuntu-ir</p>
         <p><br /></p>
-        <p class="title">ubuntu 14.04 LTS</p>
-        <p class="orange">Trusty Tahr<br />
+        <p class="title">چه خبر؟</p>
+        <p class="orange">از این اوبونتو تا اون اوبونتو<br /></p>
         <div class="left">
         	<div class="bottom">
             	<p class="little">
-                	Danial Behzadi
+<b>جادی</b>
                 	<br />
-                	From Ubuntu IRAN LoCo Team
+ www.Jadi.net به وبلاگم سر بزنین <br >
+ Jadi.net/podcast رادیو گیک رو گوش کنین <br>
+ @jadi یا حداقل فالوم کنین 
             	</p>
             	<p class="orange little"><br />
-                	dani.behzi@ubuntu.com
+                	jadijadi@gmail.com
             	</p>
         	</div>
         </div>
-        </p>
+        <div class="right">
+        	<img class="tahr" src="images/tahr_orange_hex.svg" height="60%" >
+        </div>
     </div>
+
+
     
-    <div id="Main" class="step slide toc" data-x="0" data-y="0" data-scale="2">
-        <p class="center"><img src="images/ubuntu-logo.png"></p>
-        <p class="center"><b>What is ubuntu?</b><br />
-            <a href="#Ubuntu">ubuntu</a> is a <a href="#Distro">Distribution</a> of<br .>
-            <a href="#OS">GNU/Linux Operating System</a>
-        </p>
-        <p class="center"><br /><b>What's new in ubuntu?</b><br />
-            <a href="#New">Many things!</a>
-        </p>
-    </div>
-    
-    <!--##### GNU-->
-    <div id="OS" class="step slide" data-x="1750" data-y="0" data-rotate="-90" data-scale="1.444">
-        <p class="subsubtitle">What is Operating System?</p>
-        <p><br />A Unix-like "Operating System" is a software collection of applications, libraries, developer tools, and a kernel.</p>
-		<p><br />Kernel is a program to allocate resources and talk to the hardware.</p>                
-    </div>
-    
-    <div id="GNU" class="step slide" data-x="2950" data-y="0" data-rotate="-90" data-scale="1.444">
-        <p class="subsubtitle">What is GNU?</p>
-        <p><br />Founded in 1983, "GNU" is a project to provide a complete Unix-like Operating System which is entirely based on <a href="#FS">Free Software</a>.</p>
-        <p><br />GNU is recursive acronym of "GNU's Not Unix". It was intended to show how it is Free unlike the old Unix.</p>
-    </div>
-    
-    <div id="FS" class="step slide" data-x="4150" data-y="0" data-rotate="-90" data-scale="1.444">
-    	<p class="subsubtitle">What is Free Software?</p>
-        <p><br />“Free Software” is a matter of liberty, not price. To understand the concept, you should think of “free” as in “free speech”, not as in “free beer”.</p>
-        <p><br />Free software is a matter of the users' freedom to run, copy, distribute, study, change and improve the software.
-        </p>
-    </div>
-    
-    <div id="linux" class="step slide" data-x="5350" data-y="0" data-rotate="-90" data-scale="1.444">
-        <p class="subsubtitle">What is Linux?</p>
-        <p><br />"Linux" is a kernel for GNU Operating System, released in 1991 and licensed under GNU GPL later.</p>
-        <p><br />It is important to know despite the general belief, Linux is NOT an Operating System. It is just another system software for GNU OS!</p>
-    </div>
-    
-    <div id="gnulinux" class="step slide" data-x="6550" data-y="0" data-rotate="-90" data-scale="1.444">
-        <p class="subsubtitle">What is GNU/Linux?</p>
-        <p><br />"GNU/Linux" is a term for a GNU Operating system which uses Linux as it's kernel.</p>
-        <p><br />There are Operating Systems either are GNU without Linux (e.g. GNU/HURD) or are not GNU but uses Linux as their (e.g. Android).</p>
-        <p class="center little"><br /><a href="#Main">Back to Main</a></p>
-    </div>
     
      <!--##### Distro-->
     <div id="Distro" class="step slide" data-x="0" data-y="-1472.5" data-z="-100" data-rotate="180" data-scale="1.8" data-z="-100" data-rotate-x="17.5">
@@ -115,7 +83,7 @@
         <p><br />Many groups around the world makes their own distro based on their needs.</p>
     </div>
     
-    <div id="Debian" class="step slide" data-x="0" data-y="-2590" data-z="-200" data-rotate="180" data-scale="1.6" data-z="-200" data-rotate-x="35">
+    <div id="Debian" class="step slide" data-x="0" data-y="-2650" data-z="-200" data-rotate="180" data-scale="1.6" data-z="-200" data-rotate-x="35">
         <p class="subsubtitle">Debian</p>
         <div><br /><img class="left" src="images/logo-debian.svg" height="550" width=auto></div>
         <div class="right"><br /><br />
@@ -127,7 +95,7 @@
         </div>
     </div>
     
-    <div id="ubuntu" class="step slide" data-x="0" data-y="-3352.5" data-z="-300" data-rotate="180" data-scale="1.4" data-z="-300" data-rotate-x="52.5">
+    <div id="ubuntu" class="step slide" data-x="0" data-y="-3702.5" data-z="-300" data-rotate="180" data-scale="1.4" data-z="-300" data-rotate-x="52.5">
         <p class="subsubtitle">ubuntu</p>
         <div style="height:16em">
         	<div><br /><br /><img class="left" src="images/logo-ubuntu_st_no%C2%AE-orange-hex.svg"></div>
@@ -168,7 +136,7 @@
     </div>
     
     <div id="N4" class="step slide" data-x="-5350" data-y="0" data-rotate="90" data-scale="1.444">
-        <p class="subsubtitle">New changes</p>
+        <p class="subsubtitle">New changes</p><br />
         <div class="center"><br />
             <img src="images/spread.png">
         </div>
@@ -187,9 +155,23 @@
                 <li>And many more…</li>
             </ul>
         </div>
-        <p class="center little"><br /><a href="#overview">Finish</a></p>
+        <p class="center little"><br /><a href="#Main">Back to Main</a></p>
     </div>
     
+
+    
+    <div id="Main" class="step slide main" data-x="0" data-y="0" data-scale="2">
+        <p class="center"><img src="images/ubuntu-logo.png"></p>
+        <p class="center"><b>What is ubuntu?</b><br />
+            <a href="#Ubuntu">ubuntu</a> is a <a href="#Distro">Distribution</a> of<br .>
+            <a href="#OS">GNU/Linux Operating System</a>
+        </p>
+        <p class="center"><br /><b>What's new in ubuntu?</b><br />
+            <a href="#New">Many things!</a>
+        </p>
+    </div>
+
+
     <!--##### Overview-->
     <div id="overview" class="step" data-x="0" data-y="0" data-scale="10">
     </div>

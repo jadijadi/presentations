@@ -46,3 +46,11 @@
   font-weight: 300;
   src: local('Ubuntu Light Italic'), local('Ubuntu-LightItalic'), url(https://themes.googleusercontent.com/static/fonts/ubuntu/v5/DZ_YjBPqZ88vcZCcIXm6VobN6UDyHWBl620a-IRfuBk.woff) format('woff');
 }
+
+
+@font-face
+{
+font-family: 'naskh';
+src: url(DroidNaskh-Regular.ttf);
+}
+

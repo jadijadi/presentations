@@ -14,13 +14,13 @@ time, mark, audio, video {
     padding: 0;
     border: 0;
     font-size: 1.5em;
-    font-family: 'Ubuntu';
+    font-family: 'naskh';
     vertical-align: baseline;
     line-height: 1.5;
 }
 
 body {
-    font-family: Ubuntu;
+    font-family: 'naskh';
     min-height: 24.5em;
     background: url(../images/warty-final-ubuntu.jpg) center center no-repeat;
 }
@@ -40,7 +40,7 @@ body {
     color: rgb(102, 102, 102);
     text-shadow: 0 0.08em 0.08em rgba(0, 0, 0, .1);
 
-    font-family: 'Ubuntu';
+    font-family: 'naskh';
     font-size: 0.833em;
     line-height: 1.2em;
     letter-spacing: -0.05em;

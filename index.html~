@@ -20,7 +20,7 @@
 
 	----
 
-	Modified by Jadi for his own presentation <JadiJadi@gmail.com>
+	Modified by Jadi for his own presentation about the last years FOSS news <JadiJadi@gmail.com>
         
         
 -->
@@ -57,14 +57,13 @@
         <div class="left">
         	<div class="bottom">
             	<p class="little">
-<b>جادی</b>
-                	<br />
+<b>جادی</b></p>
+<p class="little english">
  www.Jadi.net <br >
- twitter.com/jadi<br>
+ twitter.com/jadi</p>
 
 
-            	</p>
-            	<p class="orange little"><br />
+            	<p class="orange little english"><br />
                 	jadijadi@gmail.com
             	</p>
         	</div>
@@ -137,10 +136,10 @@
         <div>
         	<div  style="font-size: 22px; direction: rtl;">
 		<img src="images/rohani.jpg" width=500px align=left style="margin-top: 16px; margin-right: 10px" >
-		<blockquote style="font-size: 32px;">
+		<blockquote style="font-size: 1.3em; font-weigth: 100;">
 
 گویی دوران پیام‌های یک طرفه به سرآمده و کم کم به نقطه‌ای می‌رسیم که جایی برای استبداد پیام نباشد و دیگر دوران رساندن پیام از طریق بلندگوهای یک طرفه، منبرهای یک طرفه، تریبون‌های یک طرفه و سنتی به سرآمده است. امروز هر پیامی که در دنیا بازتاب وسیع‌تری داشته باشد پیام قوی‌تر و تاثیرگذار‌تر است.
-		<br>
+		<br><br>
 حق ارتباط با شبکه اطلاعات جهانی را به عنوان یک حق شهروندی در کشور به رسمیت می‌شناسیم.
 
 
@@ -164,11 +163,11 @@
     
     <div id="Main" class="step slide main" data-x="0" data-y="0" data-scale="2">
         <p class="center"><img src="images/radiogeek.png"></p>
-        <p class="center"><b>RadioGeek</b><br />
-            <a href="http://jadi.net/podcast">پادکستی</a> برای  <a href="http://jadi.net/podcast">گیک‌ها</a> <br .>
-            <a href="#OS">twitter.com/radiojadi</a>
-        </p>
-        <p class="center"><br /><b>Jadi.net/podcast</b><br />
+        <p class="center "><b><span class="english" style="font-size: 0.9em">RadioGeek</span></b><br />
+            <a href="http://jadi.net/podcast">پادکستی</a> برای  <a href="http://jadi.net/podcast">گیک‌ها</a> <br >
+            <a href="#OS" class="english">twitter.com/radiojadi</a>
+        </p><br>
+        <p class="center"><b class="english">Jadi.net/podcast</b>
 
         </p>
     </div>

@@ -2,14 +2,13 @@
 <html>
 <head>
 <meta charset="utf-8">
-<title>Circular Slides - impress.js</title>
+<title>ساخت کتاب با داک پد</title>
 
-<link href="css/fonts.css" rel="stylesheet" />
-<link href="css/style.css" rel="stylesheet" />
 <link rel="shortcut icon" href="favicon.ico" />
 <link rel="apple-touch-icon" href="apple-touch-icon-144x144.png" />
 
 <style>
+
 body {
   background-image: url(//wmh.github.io/circular-slides-generator/static/img/noise.png);
 }
@@ -46,29 +45,47 @@ body {
 </head>
 <body>
 <div id="impress">
-<div class="step slide" data-x="-400" data-y="-300" data-rotate="0" data-scale="1.1156249999999999"><q>My Slides</q></div>
-<div class="step slide" data-x="875" data-y="-299" data-rotate="0" data-scale="1"><q>Slide 1</q></div>
-<div class="step slide" data-x="631" data-y="449" data-rotate="36" data-scale="1"><q>Slide 2</q></div>
-<div class="step slide" data-x="-6" data-y="912" data-rotate="72" data-scale="1"><q>Slide 3</q></div>
-<div class="step slide" data-x="-793" data-y="912" data-rotate="108" data-scale="1"><q>Slide 4</q></div>
-<div class="step slide" data-x="-1431" data-y="449" data-rotate="144" data-scale="1"><q>Slide 5</q></div>
-<div class="step slide" data-x="-1675" data-y="-300" data-rotate="180" data-scale="1"><q>Slide 6</q></div>
-<div class="step slide" data-x="-1431" data-y="-1049" data-rotate="216" data-scale="1"><q>Slide 7</q></div>
-<div class="step slide" data-x="-793" data-y="-1512" data-rotate="252" data-scale="1"><q>Slide 8</q></div>
-<div class="step slide" data-x="-6" data-y="-1512" data-rotate="288" data-scale="1"><q>Slide 9</q></div>
+<div class="step slide" data-x="-400" data-y="-300" data-rotate="0" data-scale="1.1156249999999999">
+Title & Contacts
+</div>
+<div class="step slide" data-x="875" data-y="-299" data-rotate="0" data-scale="1">
+Goals
+</div>
+<div class="step slide" data-x="631" data-y="449" data-rotate="36" data-scale="1"> 
+Static Site Generators
+<br>- what
+<br>- why
+ </div>
+<div class="step slide" data-x="-6" data-y="912" data-rotate="72" data-scale="1"> 
+Why Docpad
+ </div>
+<div class="step slide" data-x="-793" data-y="912" data-rotate="108" data-scale="1"> 
+How git helps
+<br>- colaboration
+<br>- hosting
+ </div>
+<div class="step slide" data-x="-1431" data-y="449" data-rotate="144" data-scale="1"> 
+How the publishing system works
+ </div>
+<div class="step slide" data-x="-1675" data-y="-300" data-rotate="180" data-scale="1">
+Just For Fun; the story of an accidental revolutionry
+ </div>
+<div class="step slide" data-x="-1431" data-y="-1049" data-rotate="216" data-scale="1"> 
+Show some code
+ </div>
+<div class="step slide" data-x="-793" data-y="-1512" data-rotate="252" data-scale="1"> 
+Stats and figures
+ </div>
+<div class="step slide" data-x="-6" data-y="-1512" data-rotate="288" data-scale="1"> 
+Road ahead
+ </div>
 <div class="step slide credits" data-x="631" data-y="-1049" data-rotate="324" data-scale="1">
-    <h2>Credits</h2>
-    <ul>
-      <li>
-        <a href="http://bartaz.github.io/impress.js" target="_blank">impress.js</a> - Bartek Szopka
-      </li>
-      <li>
-        <a href="http://wmh.github.io/circular-slides-generator" target="_blank">Circular Slides Generator</a> - Hunter Wu
-      </li>
-    </ul>
-  </div>
+Conclusion
+</div>
 <div class="step" data-x="0" data-y="0" data-scale="6"></div>
 </div>
-<script src="//cdnjs.cloudflare.com/ajax/libs/impress.js/0.5.3/impress.js"></script>
+<script src="js/impress.js"></script>
+<script>impress().init();</script>
+
 </body>
 </html>

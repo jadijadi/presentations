@@ -1,1 +1,1 @@
-This is a Presentation about Ubuntu, designed By [Danial Behzadi](mailto:dani.behzi@ubuntu.com) from [Ubuntu-ir](http://ubuntu.ir/) for [Ubuntu 14.04 Release Party](http://ofest.ir/), thanks to [Impress.js](http://github.com/bartaz/impress.js/) projects.
+Mainly presentations in impress.

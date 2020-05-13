@@ -19,7 +19,7 @@
 /*jshint bitwise:true, curly:true, eqeqeq:true, forin:true, latedef:true, newcap:true,
          noarg:true, noempty:true, undef:true, strict:true, browser:true */
 
-// You are one of those who like to know how thing work inside?
+// You are one of those who like to know how things work inside?
 // Let me show you the cogs that make impress.js run...
 (function ( document, window ) {
     'use strict';
@@ -784,7 +784,7 @@
         // rescale presentation when window is resized
         window.addEventListener("resize", throttle(function () {
             // force going to active step again, to trigger rescaling
-            api.goto( document.querySelector(".active"), 500 );
+            api.goto( document.querySelector(".step.active"), 500 );
         }, 250), false);
         
     }, false);

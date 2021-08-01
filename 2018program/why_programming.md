@@ -3,7 +3,7 @@
 ---
 ## Joy of work
 
-- Are you paying e for _this_?
+- Are you paying e for this?
 - 31M developers commited 200M in 2018
   - clear goal
   - immediate feedback

@@ -46,9 +46,15 @@ Rust was officially integrated into the Linux kernel, introducing a memory-safe 
 ---
 
 ## AI Integration in Open-Source Projects
-AI technologies, like GitHub Copilot, are increasingly being used in open-source projects, automating code suggestions and improving development productivity. Many tools are integrating AI and there are lots of criticisms.
+AI technologies, like GitHub Copilot, are increasingly being used in open-source projects, automating code suggestions and development. Many tools are integrating AI and there are lots of criticisms.
 
 ---
+
+## And.. the years of GNU/Linux is here
+More people are using GNU/Linux on their phones, computers, and for gaming. We can see this in the growing number of Linux-based phone systems, more people using Linux on their home computers, and more games that work on Linux.
+
+---
+
 
 ## Questions
 
